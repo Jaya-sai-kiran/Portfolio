@@ -11,7 +11,7 @@ body {
 
 html{
     scroll-behavior:smooth;
-    background-color: rgb(236, 231, 213);
+    background: rgb(236, 231, 213);
 }
 
 p{
